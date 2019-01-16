@@ -1,0 +1,58 @@
+Summary
+=======
+
+Software Technologies
+
+In the software technologies group, we conduct research centered
+around methods, techniques, and tools for the creation, analysis
+and application of software systems. The research is performed using a
+wide range of methods including
+
+creative???--studying or supporting the creation of software systems
+
+theoretical--programming languages, algorithms, type systems,
+..., used to create software systems
+
+empirical--experiments and systematic observations of software
+systems or using software systems to analyse big amounts of data
+
+engineering--measuring properties of software systems, tool
+support for building software systems 
+
+
+
+Important research areas are:
+
+Software notations and tools
+	 Programming language features
+	 Type Systems
+	 Software metrics
+	 
+Information systems applications
+	    Data mining programming
+	    Machine learning programming
+
+Theory of computation
+       Design and analysis of algorithms
+       Theory and algorithms for application domains
+   
+
+
+
+
+Description
+===========
+
+<Repeat summary>
+
+
+People
+======
+
+
+Projects
+========
+
+
+Publications
+============
